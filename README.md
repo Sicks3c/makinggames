@@ -4,8 +4,11 @@ MAKING GAMES WITH PYTHON
 
 
   [+] AUTOR:        amiralkizaru
+
   [+] EMAIL:        ayoubelaich@gmail.com
+
   [+] Facebook:     https://fb.com/Silencer.fan
+  
   [+] GIT:          https://github.com/amiralkizaru
 
 
