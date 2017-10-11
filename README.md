@@ -6,7 +6,7 @@
   [+] AUTOR:        amiralkizaru  
 
   [+] EMAIL:        ayoubelaich@gmail.com  
-  
+
   [+] Facebook: [amiralkizaru!](https://fb.com/Silencer.fan)
 
 
@@ -37,9 +37,12 @@ In linux ubuntu/mint/etc .. type this :
 
 ## Support  
 
-If you want to support us to do much better effort to bring this 
-Donate on Paypal : ayoubelaich@gmail.com
-Donate on BTC    : 1GJeX37RvzxmZ7p35h1qvECn7LQeLKfTQp
+If you want to support us to do much better effort to bring this  
+
+Donate on Paypal : ayoubelaich@gmail.com  
+
+Donate on BTC    : 1GJeX37RvzxmZ7p35h1qvECn7LQeLKfTQp  
+
 
 ## SCRIPTS  
 **The first script in the book is blankpage**
