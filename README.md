@@ -49,7 +49,8 @@ Donate on BTC    : 1GJeX37RvzxmZ7p35h1qvECn7LQeLKfTQp
 
 OUTPUT of the code : ![First-script](http://imageshack.com/a/img924/1171/jcAGnT.png)
 
-**The 2nd script in the book is drawing**
+**The 2nd script in the book is drawing**  
+
 OUTPUT of the code:
 ![Second-script](http://imageshack.com/a/img924/4662/URzQsS.png)
 
