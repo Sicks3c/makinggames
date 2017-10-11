@@ -3,8 +3,10 @@
 
 
 
-  [+] AUTOR:        amiralkizaru
-  [+] EMAIL:        ayoubelaich@gmail.com
+  [+] AUTOR:        amiralkizaru  
+
+  [+] EMAIL:        ayoubelaich@gmail.com  
+  
   [+] Facebook: [amiralkizaru!](https://fb.com/Silencer.fan)
 
 
