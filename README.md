@@ -41,7 +41,7 @@ If you want to support us to do much better effort to bring this
 
 Donate on Paypal : ayoubelaich@gmail.com  
 
-Donate on BTC    : 1GJeX37RvzxmZ7p35h1qvECn7LQeLKfTQp  
+Donate on BTC    : 1CjrkkukXpEJj68ssGpsuYCWWKRZzm2pSE  
 
 
 ## SCRIPTS  
