@@ -60,13 +60,15 @@ OUTPUT of the code:
 
 **_N.B_**: _In catanimation the cat is moving since i don't have tools to make a GIF you'll see the output by yourself ;)_  
 
-**The 4th script in the book is fonttext**
-output of the code:
-![4rd-script](https://imgur.com/a/N1Vr6)
+**The 4th script in the book is fonttext**  
+
+output of the code:  
+
+![4rd-script](http://imageshack.com/a/img922/3707/IBCZiU.png)
 
 **The 5th script is background**  
 output of the code:  
-![5th-script](https://imgur.com/a/8i7sP)
+![5th-script](http://imageshack.com/a/img924/5691/P4Po84.png)
 
 
 **Bonus**
