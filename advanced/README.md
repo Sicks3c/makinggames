@@ -19,3 +19,16 @@ To give the player a hint, the boxes are quickly uncovered once at the beginning
  ![Image of the game](https://inventwithpython.com/pygame/chapter3_files/image001.jpg)
 
 
+_Second exercice_ : Slidepuzzle.py
+
+**_How to Play Slide Puzzle_** :  
+
+_The board is a 4x4 grid with fifteen tiles (numbered 1 through 15 going left to right) and one
+blank space. The tiles start out in random positions, and the player must slide tiles around until
+the tiles are back in their original order._
+
+![Image of the game](https://www.hostingpics.net/viewer.php?id=395109puzzle2.jpg)
+
+_Note_ :  
+
+**The writter made the same functions as the first script he added some new ones follow the description and explanation in the book the get it througt**
