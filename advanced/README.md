@@ -27,7 +27,7 @@ _The board is a 4x4 grid with fifteen tiles (numbered 1 through 15 going left to
 blank space. The tiles start out in random positions, and the player must slide tiles around until
 the tiles are back in their original order._
 
-![Image of the game](https://www.hostingpics.net/viewer.php?id=395109puzzle2.jpg)
+![Image of the game](https://inventwithpython.com/pygame/chapter4_files/image001.jpg)
 
 _Note_ :  
 
