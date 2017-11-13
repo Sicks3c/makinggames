@@ -32,3 +32,21 @@ the tiles are back in their original order._
 _Note_ :  
 
 **The writter made the same functions as the first script he added some new ones follow the description and explanation in the book the get it througt**
+
+**_How to play Simulate game_**:  
+
+Simulate is a clone of the game Simon. There are four colored buttons on the screen. The buttons
+light up in a certain random pattern, and then the player must repeat this pattern by pressing the
+buttons in the correct order. Each time the player successfully simulates the pattern, the pattern
+gets longer. The player tries to match the pattern for as long as possible.  
+
+![Image of the game](https://inventwithpython.com/pygame/chapter5_files/image001.jpg)
+
+**_How to play Wormy_**  
+
+Wormy is a Nibbles clone. The player starts out controlling a short worm that is constantly moving around the screen. The player cannot stop or slow down the worm, but they can control which direction it turns. A red apple appears randomly on the screen, and the player must move the worm so that it eats the apple. Each time the worm eats an apple, the worm grows longer by one segment and a new apply randomly appears on the screen. The game is over if the worm crashes into itself or the edges of the screen.
+
+![Image of the game](https://inventwithpython.com/pygame/chapter6_files/image002.jpg)
+
+_Note_:  
+I have added my personnal background and I changed the wormcords 
