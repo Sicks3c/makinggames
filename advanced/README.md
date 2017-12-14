@@ -50,3 +50,16 @@ Wormy is a Nibbles clone. The player starts out controlling a short worm that is
 
 _Note_:  
 I have added my personnal background and I changed the wormcords 
+
+
+**_How to play Squirrel_**
+
+Squirrel Eat Squirrel is loosely based on the game ―Katamari Damacy‖. The player controls a
+small squirrel that must hop around the screen eating smaller squirrels and avoiding larger
+squirrels. Each time the player’s squirrel eats a squirrel that is smaller than it, it grows larger. If
+the player’s squirrel gets hit by a larger squirrel larger than it, it loses a life point. The player wins
+when the squirrel becomes a monstrously large squirrel called the Omega Squirrel. The player
+loses if their squirrel gets hit three times.
+
+![Image 1](http://inventwithpython.com/pygame/chapter8_files/image002.jpg)
+![Image 2](http://inventwithpython.com/pygame/chapter8_files/image001.jpg)
